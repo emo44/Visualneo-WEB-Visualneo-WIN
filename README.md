@@ -1,5 +1,5 @@
 # Visualneo-WEB-Visualneo-WIN
-Programas y Plugins que he realizado para VisualNeo WIN y WEB
+Plugins y Ejemplos que he realizado para VisualNeo WIN y WEB
 
 ![emoconfok_uid_61d612013fd10](https://user-images.githubusercontent.com/2462238/233136706-bd8c9c09-59c1-4aac-844e-c890d606dd23.jpg)
 ![emoreverse_uid_61d610e16e0af](https://user-images.githubusercontent.com/2462238/233136741-49d15719-3450-4624-b229-0cfc63154ec2.jpg)
