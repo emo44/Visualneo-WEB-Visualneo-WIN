@@ -1,5 +1,5 @@
 # Visualneo-WEB-Visualneo-WIN
-[![Github All Releases](https://img.shields.io/github/downloads/emo44/Visualneo-WEB-Visualneo-WIN/total.svg)]()![GitHub](https://img.shields.io/github/license/emo44/Visualneo-WEB-Visualneo-WIN)
+![GitHub](https://img.shields.io/github/license/emo44/Visualneo-WEB-Visualneo-WIN)
 
 Plugins y Ejemplos que he realizado para VisualNeo WIN y WEB
 
